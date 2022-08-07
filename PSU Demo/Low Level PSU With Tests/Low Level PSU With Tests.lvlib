@@ -5,7 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Instrument" Type="Folder">
-		<Item Name="Instrument Interface.lvclass" Type="LVClass" URL="../../Instrument Interface/Instrument Interface.lvclass"/>
+		<Item Name="Instrument Interface.lvclass" Type="LVClass" URL="../Instrument Interface/Instrument Interface.lvclass"/>
 		<Item Name="Mock Instrument Interface.lvclass" Type="LVClass" URL="../Mock Instrument Interface/Mock Instrument Interface.lvclass"/>
 		<Item Name="VISA.lvclass" Type="LVClass" URL="../VISA/VISA.lvclass"/>
 	</Item>
