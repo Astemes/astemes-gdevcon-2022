@@ -11,4 +11,6 @@
 	</Item>
 	<Item Name="Low Level PSU.lvclass" Type="LVClass" URL="../Low Level PSU/Low Level PSU.lvclass"/>
 	<Item Name="Low Level PSU Test.lvclass" Type="LVClass" URL="../Low Level PSU Test/Low Level PSU Test.lvclass"/>
+	<Item Name="Measure Voltage.vi" Type="VI" URL="../Measure Voltage.vi"/>
+	<Item Name="Set DC Voltage.vi" Type="VI" URL="../Set DC Voltage.vi"/>
 </Library>
