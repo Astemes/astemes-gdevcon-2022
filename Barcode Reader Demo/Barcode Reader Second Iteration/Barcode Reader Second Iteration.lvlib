@@ -5,13 +5,13 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Barcode Reader.lvclass" Type="LVClass" URL="../Barcode Reader/Barcode Reader.lvclass"/>
+	<Item Name="Barcode.lvclass" Type="LVClass" URL="../Barcode Reader/Barcode.lvclass"/>
 	<Item Name="Type A.lvclass" Type="LVClass" URL="../Type A/Type A.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="Type B.lvclass" Type="LVClass" URL="../Type B/Type B.lvclass">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Barcode Reader Type A Test.lvclass" Type="LVClass" URL="../Barcode Reader Type A Test/Barcode Reader Type A Test.lvclass"/>
-	<Item Name="Barcode Reader Type B Test.lvclass" Type="LVClass" URL="../Barcode Reader Type B Test/Barcode Reader Type B Test.lvclass"/>
+	<Item Name="Barcode Type A Test.lvclass" Type="LVClass" URL="../Barcode Reader Type A Test/Barcode Type A Test.lvclass"/>
+	<Item Name="Barcode Type B Test.lvclass" Type="LVClass" URL="../Barcode Reader Type B Test/Barcode Type B Test.lvclass"/>
 </Library>
