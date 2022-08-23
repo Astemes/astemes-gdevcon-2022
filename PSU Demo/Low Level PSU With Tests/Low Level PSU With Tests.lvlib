@@ -6,8 +6,8 @@
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Instrument" Type="Folder">
 		<Item Name="Instrument.lvclass" Type="LVClass" URL="../Instrument Interface/Instrument.lvclass"/>
-		<Item Name="Mock Instrument.lvclass" Type="LVClass" URL="../Mock Instrument Interface/Mock Instrument.lvclass"/>
 		<Item Name="VISA Instrument.lvclass" Type="LVClass" URL="../VISA/VISA Instrument.lvclass"/>
+		<Item Name="Mock Instrument.lvclass" Type="LVClass" URL="../Mock Instrument Interface/Mock Instrument.lvclass"/>
 	</Item>
 	<Item Name="Low Level PSU.lvclass" Type="LVClass" URL="../Low Level PSU/Low Level PSU.lvclass"/>
 	<Item Name="Low Level PSU Test.lvclass" Type="LVClass" URL="../Low Level PSU Test/Low Level PSU Test.lvclass"/>
