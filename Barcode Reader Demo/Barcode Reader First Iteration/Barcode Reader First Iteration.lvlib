@@ -5,6 +5,6 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
-	<Item Name="Barcode Reader.lvclass" Type="LVClass" URL="../Barcode Reader/Barcode Reader.lvclass"/>
-	<Item Name="Barcode Reader Test.lvclass" Type="LVClass" URL="../Barcode Reader Test/Barcode Reader Test.lvclass"/>
+	<Item Name="Barcode.lvclass" Type="LVClass" URL="../Barcode Reader/Barcode.lvclass"/>
+	<Item Name="Barcode Test.lvclass" Type="LVClass" URL="../Barcode Reader Test/Barcode Test.lvclass"/>
 </Library>
