@@ -6,6 +6,8 @@ For a demonstration of what the workflow looks like writing tests first, please 
 
 The slides from the presentation are availble [here](https://github.com/Astemes/astemes-gdevcon-2022/blob/main/Presentation/Unit%20Testing%20from%20the%20Trenches.pdf).
 
+The video recording is [available here](https://youtu.be/6cfifZbhZsE).
+
 To run the unit tests you will need LUnit Unit Test Framework available [at VIPM](https://www.vipm.io/package/astemes_lib_lunit/).
 
 ## Addendum
